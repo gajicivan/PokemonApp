@@ -1,6 +1,6 @@
 # PokemonApp
 
-Aplikacija za pretragu pokemona po boji i imenu radjen sa React.js.
+Aplikacija za pretragu pokemona po boji i imenu radjena sa React.js.
 
 Ako je korisnik stavio nepopunjemo polje ili ako zahtev pretrage nije pronadjen korisnik dobija odgovarajuću poruku.
 Prilikom testiranja aplikacije na mom racunaru dodao sam ektenziju CORS u chrome browseru.
