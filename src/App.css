@@ -1,0 +1,82 @@
+body{
+	background: #ebf6f9;
+	width: 100%;
+	padding: 0;
+	margin:0;
+}
+
+.glavniDiv{
+  text-align: center;
+}
+
+.divPretraga{
+  margin-top: 10px;
+  background: url(http://bgfons.com/uploads/light/light_texture2320.jpg);
+  padding: 10px;
+}
+.divRezultat{
+	padding-top: 20px;
+	background: #63b4cf;
+	color: #1a0000;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+#potvrda{
+	border: none;
+	background: darkgreen;
+	color:white;
+	margin-top: 5px;
+	padding: 8px 10px;
+	font-size: 14px;
+	width: 170px;
+	border-radius: 10px;
+	cursor: pointer;
+	margin-bottom: 5px;
+}
+#potvrda:hover{
+	background: green;
+}
+
+#potvrda:focus{
+	outline: none;
+}
+
+#logo{
+	max-width: 100%;
+}
+#potvrdadva{
+	border: none;
+	background: darkorange;
+	color:white;
+	padding: 8px 10px;
+	font-size: 14px;
+	width: 170px;
+	border-radius: 10px;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+
+#potvrdadva:hover{
+	background: orange;
+}
+
+#potvrdadva:focus{
+	outline: none;
+}
+
+
+.item{
+	color: white;
+	background: rgba(51, 0, 51, 0.75);
+	font-family: sans-serif;
+	padding: 5px 0;
+	margin: 0 auto;
+	margin-top: 0;
+	max-width: 90%;
+	border-radius: 10px;
+	border-bottom: 2px solid darkorange;
+}
+
+.pozdravporuka{
+	color: brown;
+}
